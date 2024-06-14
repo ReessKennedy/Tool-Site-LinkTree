@@ -3,6 +3,8 @@
 ## What
 Inserts an easy-to-customize link tree popup inside a site.
 
+![Image of Tool Site LinkTree](https://drive.google.com/thumbnail?id=13Swacag8NelG7FNYemaJy61_jJE7fmSd&usp=drive_fs&sz=s400)
+
 ## Why
 Some sites can be annoying to navigate ("Where is the menu item for that thing?") and for sites you visit often this can be a big time suck. Traditional bookmarks are fine but then you have to remember to head to your bookmark bar. WHat if you could just program a site to show you some navigation you create? 
 
